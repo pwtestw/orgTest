@@ -1,2 +1,2 @@
 # test
-test project to download and upload
+test organizational project to download and upload
